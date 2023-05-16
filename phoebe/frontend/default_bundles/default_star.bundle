@@ -766,7 +766,7 @@ null,
 "context": "compute",
 "description": "Type of boosting method",
 "choices": [
-"none"
+"none", "simple"
 ],
 "value": "none",
 "copy_for": false,
